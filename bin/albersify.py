@@ -105,7 +105,7 @@ tags = 'ch:object=' + object_id + ', ' + ring1id + ', ' + ring2id + ', ' + ring3
 
 params = {
         'type' : 'photo',
-        'source' : 'http://albers.micahwalter.com/albers.png',
+        'source' : 'http://YOUR-WEBSITE.com/albers.png',
         'link' : object_link,
         'tags' : tags,
         'slug' : object_id,
