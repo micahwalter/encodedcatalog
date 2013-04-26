@@ -1,1 +1,1 @@
-web: python app.py
+timer: python albersify.py timed
